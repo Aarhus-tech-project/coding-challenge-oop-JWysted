@@ -1,15 +1,15 @@
 namespace vehicles_museum;
-public class Transport(IEngine engine)
+public class Transport()
 {
-    public string Name{get; private set;} 
-    private IEngine Engine;
-    private string Description;
+    public string? Name {get; private set;} 
+    protected IEngine? Engine;
+    protected string? Description;
 
     public void Use()
     {
-        Console.writeLine($"name: {Name}");
-        Console.writeLine($"Engine running status: {Engine.IsRunning}");
-        console.writeLine($"Description: {Description} ");
+        Console.WriteLine($"name: {Name}");
+        Console.WriteLine($"Engine running status: {Engine?.IsRunning}");
+        Console.WriteLine($"Description: {Description} ");
     }
     
 }

@@ -1,5 +1,11 @@
 
 namespace vehicles_museum;
+public interface IEngine
+{
+    bool IsRunning{get;}
+    void Start();
+    void Stop();
+}
 
 public class Engine
 {
