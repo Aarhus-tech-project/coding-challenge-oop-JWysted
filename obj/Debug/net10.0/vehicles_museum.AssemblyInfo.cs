@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("vehicles_museum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7aeb73dd368d6f77edf39dfbe43a7f29277f39d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+711bc679df8348f7d510ab2ad8cb396e4a5409e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("vehicles_museum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("vehicles_museum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
