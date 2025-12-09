@@ -1,21 +1,23 @@
-
 namespace vehicles_museum;
+
 public interface IEngine
 {
-    bool IsRunning{get;}
+    bool IsRunning { get; }
     void Start();
     void Stop();
 }
 
-public class Engine
+public class Engine : IEngine
 {
-    public bool IsRunning{get; private set;} = true;
+    public bool IsRunning { get; private set; } = false;
 
-    private void Start(){
+    public void Start()
+    {
         IsRunning = true;
     }
-    private void Stop(){
-        IsRunning = false;
 
+    public void Stop()
+    {
+        IsRunning = false;
     }
-}  
+}

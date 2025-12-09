@@ -1,15 +1,24 @@
 namespace vehicles_museum;
-public class Transport()
-{
-    public string? Name {get; private set;} 
-    protected IEngine? Engine;
-    protected string? Description;
 
-    public void Use()
+public abstract class Transport(string name)
+{
+    public string Name { get; protected set; } = name;
+    protected IEngine? Engine { get; set; }
+    protected string? Description { get; set; }
+
+    public virtual void Use()
     {
-        Console.WriteLine($"name: {Name}");
-        Console.WriteLine($"Engine running status: {Engine?.IsRunning}");
-        Console.WriteLine($"Description: {Description} ");
+        Console.WriteLine($"{Name}");
+        Console.WriteLine($"Description: {Description}");
+        
+        if (Engine != null)
+        {
+            Engine.Start();
+            Console.WriteLine($"Engine running: {Engine.IsRunning}");
+        }
+        else
+        {
+            Console.WriteLine("No engine - uses alternative propulsion");
+        }
     }
-    
 }
