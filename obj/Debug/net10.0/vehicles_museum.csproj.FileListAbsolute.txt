@@ -1,0 +1,15 @@
+C:\Users\byste\OneDrive\Skrivebord\skoleKode\vehicles_museum\bin\Debug\net10.0\vehicles_museum.exe
+C:\Users\byste\OneDrive\Skrivebord\skoleKode\vehicles_museum\bin\Debug\net10.0\vehicles_museum.deps.json
+C:\Users\byste\OneDrive\Skrivebord\skoleKode\vehicles_museum\bin\Debug\net10.0\vehicles_museum.runtimeconfig.json
+C:\Users\byste\OneDrive\Skrivebord\skoleKode\vehicles_museum\bin\Debug\net10.0\vehicles_museum.dll
+C:\Users\byste\OneDrive\Skrivebord\skoleKode\vehicles_museum\bin\Debug\net10.0\vehicles_museum.pdb
+C:\Users\byste\OneDrive\Skrivebord\skoleKode\vehicles_museum\obj\Debug\net10.0\vehicles_museum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byste\OneDrive\Skrivebord\skoleKode\vehicles_museum\obj\Debug\net10.0\vehicles_museum.AssemblyInfoInputs.cache
+C:\Users\byste\OneDrive\Skrivebord\skoleKode\vehicles_museum\obj\Debug\net10.0\vehicles_museum.AssemblyInfo.cs
+C:\Users\byste\OneDrive\Skrivebord\skoleKode\vehicles_museum\obj\Debug\net10.0\vehicles_museum.csproj.CoreCompileInputs.cache
+C:\Users\byste\OneDrive\Skrivebord\skoleKode\vehicles_museum\obj\Debug\net10.0\vehicles_museum.sourcelink.json
+C:\Users\byste\OneDrive\Skrivebord\skoleKode\vehicles_museum\obj\Debug\net10.0\vehicles_museum.dll
+C:\Users\byste\OneDrive\Skrivebord\skoleKode\vehicles_museum\obj\Debug\net10.0\refint\vehicles_museum.dll
+C:\Users\byste\OneDrive\Skrivebord\skoleKode\vehicles_museum\obj\Debug\net10.0\vehicles_museum.pdb
+C:\Users\byste\OneDrive\Skrivebord\skoleKode\vehicles_museum\obj\Debug\net10.0\vehicles_museum.genruntimeconfig.cache
+C:\Users\byste\OneDrive\Skrivebord\skoleKode\vehicles_museum\obj\Debug\net10.0\ref\vehicles_museum.dll
